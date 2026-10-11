@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# What the demo vendor server received
+*.log
